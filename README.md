@@ -1,1 +1,3 @@
-"Testing different models on the Iris dataset, and analysing some key concepts such as feature importance" 
+Testing different models on the Iris dataset, and analysing some key concepts such as feature importance
+Tested and tuned some of the models here too!
+
